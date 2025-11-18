@@ -44,3 +44,16 @@ bash run_parallel_experiment.sh
 ## 📑Citation
 
 If your research uses the PRISM framework or our dataset, please cite our paper.
+
+```
+@misc{qi2025plansolvingproblemawarestrategy,
+      title={Plan before Solving: Problem-Aware Strategy Routing for Mathematical Reasoning with LLMs}, 
+      author={Shihao Qi and Jie Ma and Ziang Yin and Lingling Zhang and Jian Zhang and Jun Liu and Feng Tian and Tongliang Liu},
+      year={2025},
+      eprint={2509.24377},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2509.24377}, 
+}
+```
+
